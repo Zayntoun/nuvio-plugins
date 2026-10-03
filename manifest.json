@@ -1,5 +1,5 @@
 {
-  "name": "My Custom Nuvio",
+  "name": "My-Custom-Nuvio",
   "version": "1.0.0",
   "scrapers": [
     {
@@ -170,7 +170,7 @@
       "version": "1.0.0",
       "author": "Abodabodd",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aia2tv 2.cs3",
+      "filename": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/builds/Aia2tv%202.cs3",
       "enabled": true,
       "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEhyYSi351HRw/company-logo_200_200/company-logo_200_200/0/1630489719119?e=2147483647&v=beta&t=Br69OJ2AwT5vdJHgl-DTvliEqOmp6VQLYwUWcFqG4u4",
       "contentLanguage": ["ar"]
