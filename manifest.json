@@ -146,7 +146,7 @@
       "version": "1.0.0",
       "author": "Zayn",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/Zayntoun/nuvio-arabic-addon/main/akwam.js",
+      "filename": "https://raw.githubusercontent.com/Zayntoun/nuvio-plugins/main/akwam.js",
       "enabled": true,
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2vuGLv4zY3XpoN2jza2unCQ95xFfypfe-h3k3xteMbGxl7taw-ziXyNg&s=10",
       "contentLanguage": ["ar"]
@@ -158,7 +158,7 @@
       "version": "1.0.0",
       "author": "Zayn",
       "supportedTypes": ["movie", "tv"],
-      "filename": "https://raw.githubusercontent.com/Zayntoun/nuvio-arabic-addon/main/egybest.js",
+      "filename": "https://raw.githubusercontent.com/Zayntoun/nuvio-plugins/main/egybest.js",
       "enabled": true,
       "logo": "https://egybesstt.bond/favicon.ico",
       "contentLanguage": ["ar"]
